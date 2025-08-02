@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/buoi3/btvn/btvn.iml" filepath="$PROJECT_DIR$/buoi3/btvn/btvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi4/btvn4/btvn4.iml" filepath="$PROJECT_DIR$/buoi4/btvn4/btvn4.iml" />
       <module fileurl="file://$PROJECT_DIR$/buoi2/buoi2.iml" filepath="$PROJECT_DIR$/buoi2/buoi2.iml" />
       <module fileurl="file://$PROJECT_DIR$/buoi3/buoi3.iml" filepath="$PROJECT_DIR$/buoi3/buoi3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi4/buoi4.iml" filepath="$PROJECT_DIR$/buoi4/buoi4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
     </modules>
   </component>
